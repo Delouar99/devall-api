@@ -1,0 +1,14 @@
+{
+  "name": "all-api-assisment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "js": "json-server --watch  db.json --port 8250"
+  },
+  "author": "all assisment api use",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

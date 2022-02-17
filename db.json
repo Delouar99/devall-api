@@ -1,0 +1,174 @@
+{
+    "product"       :  [
+        {
+            "id"                    :       1,
+            "name"              :      "realme narzo 50i-4gb ram64gb rom- 5000mAh",
+            "price"              :      "৳ 10,579",
+            "photo"             :       "https://static-01.daraz.com.bd/p/mdc/5d3bfb3ddd2928d63b0e3f1f31d1f9f5.jpg"
+        },
+        {
+            "id"                    :       2,
+            "name"              :      "JOYROOM JR-ML01",
+            "price"              :      "৳ 735",
+            "photo"             :       "https://static-01.daraz.com.bd/p/6552994c4bf6dee2efeaa3e8081bf7ae.jpg"
+        },
+        {
+            "id"                    :       3,
+            "name"              :      "3.5mm Jack Audio Extension Cable 3/5 Meter Long, Male to Female Cord",
+            "price"              :      "৳ 237",
+            "photo"             :       "https://static-01.daraz.com.bd/p/9544e1c339906db8abdd6b1abd98ef21.jpg"
+        },
+        {
+            "id"                    :       4,
+            "name"              :      "LaOliva Olive Oil 250ml (Hair & Skin)",
+            "price"              :      "৳ 340",
+            "photo"             :       "https://static-01.daraz.com.bd/p/mdc/6b6ccbf52805692daf078aa551d07b7f.jpg"
+        },
+        {
+            "id"                    :       5,
+            "name"              :      "Avonee Pants Baby Diaper 3 Midi M (7-12 KG) 40PCS",
+            "price"              :      "৳ 599",
+            "photo"             :       "https://static-01.daraz.com.bd/p/1cf18f84b45c2008d055141a7d027f6a.jpg"
+        }
+    ],
+    "catagori"    :  [
+        {
+            "catagoriname"      :   "Electronic Devices"
+        },
+        {
+            "catagoriname"      :   "Electronic asstorices"
+        },
+        {
+            "catagoriname"      :   "TV & Home Appliances"
+        },
+        {
+            "catagoriname"      :   "Health & Beauty"
+        },
+        {
+            "catagoriname"      :   "Babies & Toys"
+        }
+    ],
+    "brand"  :   [
+        {
+            "bandname"          :  "Redmi Note 10"
+        },
+        {
+            "bandname"          :  "Audio"
+        },
+        {
+            "bandname"          :  "Soundbars"
+        },
+        {
+            "bandname"          :  "Body & Message Oils"
+        },
+        {
+            "bandname"          :  "Mother and Baby"
+        }
+    ],
+    "devs"      : [
+        {
+            "dvsname"       :  "mahin",
+            "skill"              :  "php",
+            "age"             :   35,
+            "loction"          : "uttara",
+            "dvsphoto"      : "https://www.nilphamari.info/wp-content/uploads/2016/08/Sohel-Passport-Size-New-Photo.jpg"
+        },
+        {
+            "dvsname"       :  "sabbir",
+            "skill"              :  "larabel",
+            "age"             :   25,
+            "loction"          : "Mirpur",
+            "dvsphoto"      : "https://live.staticflickr.com/8599/16337413461_9e83d5af7d_c.jpg"
+        },
+        {
+            "dvsname"       :  "Delouar",
+            "skill"              :  "Wordpress",
+            "age"             :   33,
+            "loction"          : "dhanmondi",
+            "dvsphoto"      : "https://i.pinimg.com/originals/cd/bd/fc/cdbdfc4dbd32e0996be40e5b9954f4e8.jpg"
+        },
+        {
+            "dvsname"       :  "pabel",
+            "skill"              :  "javs",
+            "age"             :   10,
+            "loction"          : "mirpur",
+            "dvsphoto"      : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8y38rdpj1uXXLBtxPZ41o8H_lm8MB9HxYTaDY4asE8sCQDfbnbFah2vNF99HKfYy8RE&usqp=CAU"
+        },
+        {
+            "dvsname"       :  "samir",
+            "skill"              :  "javs-script",
+            "age"             :   30,
+            "loction"          : "uttara",
+            "dvsphoto"      : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4o279a1mMoZUswM1JLv3Jo5TaP6SGR6abfVl5lPYa4gDYN1PzK1qnXYqF3Q8lZR8cQ7M&usqp=CAU"
+        }
+    ],
+
+    "result"        :  [
+        {
+            "roll"            :         11,
+            "name"         :         "Delouar Hasan",
+            "class"          :        "eight",
+            "photo"          :        "https://www.nilphamari.info/wp-content/uploads/2016/08/Sohel-Passport-Size-New-Photo.jpg",
+            "bn"              :        "80",
+            "en"              :        "80",
+            "math"          :       "80",
+            "since"          :       "80",
+            "ssince"         :      "80",
+            "religion"      :        "80"
+
+        },
+        {
+            "roll"            :         9,
+            "name"         :         "sabbir",
+            "class"          :        "nine",
+            "photo"          :        "https://live.staticflickr.com/8599/16337413461_9e83d5af7d_c.jpg",
+            "bn"              :        "80",
+            "en"              :        "70",
+            "math"          :       "80",
+            "since"          :       "70",
+            "ssince"         :      "80",
+            "religion"      :        "80"
+
+        },
+        {
+            "roll"            :         10,
+            "name"         :         "nayon",
+            "class"          :        "eight",
+            "photo"          :        "https://i.pinimg.com/originals/cd/bd/fc/cdbdfc4dbd32e0996be40e5b9954f4e8.jpg",
+            "bn"              :        "80",
+            "en"              :        "80",
+            "math"          :       "80",
+            "since"          :       "80",
+            "ssince"         :      "80",
+            "religion"      :        "80"
+
+        },
+        {
+            "roll"            :         15,
+            "name"         :         "mokles",
+            "class"          :        "five",
+            "photo"          :        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4o279a1mMoZUswM1JLv3Jo5TaP6SGR6abfVl5lPYa4gDYN1PzK1qnXYqF3Q8lZR8cQ7M&usqp=CAU",
+            "bn"              :        "50",
+            "en"              :        "50",
+            "math"          :       "50",
+            "since"          :       "50",
+            "ssince"         :      "50",
+            "religion"      :        "50"
+
+        },
+        {
+            "roll"            :         16,
+            "name"         :         "jakir",
+            "class"          :        "ten",
+            "photo"          :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4o279a1mMoZUswM1JLv3Jo5TaP6SGR6abfVl5lPYa4gDYN1PzK1qnXYqF3Q8lZR8cQ7M&usqp=CAU",
+            "bn"              :        "80",
+            "en"              :        "80",
+            "math"          :       "80",
+            "since"          :       "80",
+            "ssince"         :      "80",
+            "religion"      :        "80"
+
+        }
+    ]
+
+}
